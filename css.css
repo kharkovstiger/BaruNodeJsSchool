@@ -1,0 +1,21 @@
+.error{
+    border: 1px solid red;
+}
+
+.success{
+    border: 1px solid green;
+}
+
+.progress{
+    background-color: grey;
+    width: 100px;
+    height: 10px;
+}
+
+#resultContainer{
+    display: inline-block;
+}
+
+label{
+    display: block;
+}
